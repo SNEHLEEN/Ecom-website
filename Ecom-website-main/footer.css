@@ -1,0 +1,51 @@
+/* Here Starts Footer */
+
+footer {
+    padding: 0px 5px 5px 0px;
+    color: white;
+    background-color: #424949;
+}
+
+footer a {
+    color: white;
+}
+
+footer h4:hover {
+    background-color: #BDC3C7;
+}
+
+.table {
+    padding-left: 100px;
+}
+
+.logo {
+    padding-left: 114px;
+}
+
+footer h4 {
+    padding: 15px 0px;
+    background-color: #717D7E;
+    text-align: center;
+}
+
+table,
+th,
+td {
+    border: 0px solid rgb(82, 81, 81);
+    padding: 5px;
+}
+
+th {
+    text-align: left;
+}
+
+
+/* Here Ends Footer */
+
+
+/* =============================================================================
+#  Author:          Parth Vohra - https://github.com/parthvohra25
+#  Email:           parthvohra25@gmail.com
+#  FileName:        footer.html
+#  Created On:      28/11/2020
+============================================================================= */
